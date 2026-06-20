@@ -1,0 +1,20 @@
+# Circuit Connections
+
+## Soil Moisture Sensor
+
+VCC  → 3.3V
+
+GND  → GND
+
+AO   → GPIO34
+
+## Buzzer
+
+Positive → GPIO25
+
+Negative → GND
+
+## ESP32
+
+Powered through USB cable.
+Connected to WiFi.
